@@ -9,7 +9,7 @@ export default function Synonyms (props) {
             return <li key={index}>{synonyms}</li>;
         })}
          </ul>
-        );
+     );
     } else {
         return null;
     }
