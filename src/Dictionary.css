@@ -1,3 +1,19 @@
-.Dictionary {
-    
+.Dictionary h1 {
+    font-size: 18px;
+    margin-bottom: 20px;
 }
+
+.Dictionary section {
+    background: white;
+    padding: 30px;
+    border-radius: 8px;
+    margin: 15px;
+}
+
+.Dictionary input {
+    width: 100%;
+    padding: 6px 10px;
+    border: 1px solid #ddd;
+    color: #333;
+}
+

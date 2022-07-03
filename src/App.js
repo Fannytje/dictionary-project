@@ -10,7 +10,7 @@ export default function App() {
       <img src={dictionary} className="App-logo img-fluid" alt="icon" />
       </header>
       <main>
-        <Dictionary /> 
+        <Dictionary defaultKeyword="sunrise" /> 
       </main>
     <footer className="App-footer"> 
       <small>This project was coded by Fanny Nordberg and is <a href="https://github.com/Fannytje/dictionary-project" target="_blank" rel="noreferrer noopener">open-sourced on Github.</a></small>
